@@ -3,3 +3,4 @@
 ## Obsah
 - https://github.com/ProfiPeca/PizzerieZakaznici
 - https://github.com/ProfiPeca/eshop (Databázová aplikace na testování, D1 Table Gateway)
+- https://github.com/ProfiPeca/fyjo-banka P2P projekt
